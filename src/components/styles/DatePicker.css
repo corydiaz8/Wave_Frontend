@@ -1,0 +1,31 @@
+@import "react-toolbox/lib/date_picker/theme.css";
+
+.theme--wrapper--3nrqpvrL{
+	z-index:1051;
+}
+
+.header {
+  background-color:#2e3e4e !important;
+}
+.inputElement {
+   	height:30px !important;
+	padding:5px 11px !important;
+	font-size:12px !important;
+	line-height:1.5 !important;
+	border:1px solid #ccc !important;
+	color:#555 !important;
+}
+.input{
+	padding:0px !important;
+}
+.label{
+	color:#555 !important;
+	font-size:12px !important;
+	left:0px !important;
+	pointer-events:none !important;
+	position:absolute !important;
+	top:-21px !important;
+}
+
+
+
